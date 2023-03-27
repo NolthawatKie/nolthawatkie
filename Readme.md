@@ -4,15 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p>Data Analyst, SQL Developer</p>
 ---------------------------
 
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
 <p align="center">
   
-<a href="http://www.github.com/nolthawatkie"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nolthawatkie&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<!-- <a href="http://www.github.com/nolthawatkie"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nolthawatkie&bg_color=f5f5dc&color=333&line=0891b2&height=200&point=ffffff&area_color=1c1917&area=true&radius=10&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> -->
+  
+  <a href="http://www.github.com/nolthawatkie">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolthawatkie&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolthawatkie&hide=jupyternotebook,ruby&bg_color=30,30E8BF,FF8235&title_color=333&hide_border=true&langs_count=6&text_color=333&layout=compact&locale=en&custom_title=Most%20%Languages%20%Used" alt="Most Language Used" />
 </a>
 <p/>
+
+
+wakatime.js
